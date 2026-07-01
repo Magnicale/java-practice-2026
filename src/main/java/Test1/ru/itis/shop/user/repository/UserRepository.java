@@ -1,6 +1,6 @@
-package ru.itis.shop.user.repository;
+package Test1.ru.itis.shop.user.repository;
 
-import ru.itis.shop.user.domain.User;
+import Test1.ru.itis.shop.user.domain.User;
 
 public interface UserRepository {
 

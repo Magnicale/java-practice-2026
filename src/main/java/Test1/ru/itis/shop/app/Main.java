@@ -1,8 +1,8 @@
-package ru.itis.shop.app;
+package Test1.ru.itis.shop.app;
 
-import ru.itis.shop.user.api.UserConsoleOperations;
-import ru.itis.shop.user.infrastructure.persistence.UserDatabaseRepository;
-import ru.itis.shop.user.infrastructure.persistence.UserFileRepository;
+import Test1.ru.itis.shop.user.api.UserConsoleOperations;
+import Test1.ru.itis.shop.user.infrastructure.persistence.UserDatabaseRepository;
+import Test1.ru.itis.shop.user.infrastructure.persistence.UserFileRepository;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,8 @@
-package ru.itis.shop.user.infrastructure.persistence;
+package Test1.ru.itis.shop.user.infrastructure.persistence;
 
-import ru.itis.shop.user.domain.User;
-import ru.itis.shop.user.repository.UserRepository;
+import Test1.ru.itis.shop.user.repository.UserRepository;
+import Test1.ru.itis.shop.user.domain.User;
+import Test1.ru.itis.shop.user.repository.UserRepository;
 
 public class UserDatabaseRepository implements UserRepository {
 

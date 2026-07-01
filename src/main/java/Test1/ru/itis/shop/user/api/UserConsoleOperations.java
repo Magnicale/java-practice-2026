@@ -1,7 +1,7 @@
-package ru.itis.shop.user.api;
+package Test1.ru.itis.shop.user.api;
 
-import ru.itis.shop.user.domain.User;
-import ru.itis.shop.user.repository.UserRepository;
+import Test1.ru.itis.shop.user.domain.User;
+import Test1.ru.itis.shop.user.repository.UserRepository;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -54,7 +54,7 @@ public class UserConsoleOperations {
                     System.out.println("Пользователь с таким id не найден");
                 } else {
                     System.out.println(user.getEmail());
-                }
+                } break;
 
             }
             case "0": {
