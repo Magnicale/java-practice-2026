@@ -29,7 +29,6 @@ public class Main {
 
         UserRepository userRepository = new UserRepositoryJdbcImpl(dataSource);
 
-        System.out.println(userRepository.findAll());
         UserService userService = new UserService(userRepository);
 
         UserConsoleOperations operations = new UserConsoleOperations(userService);
