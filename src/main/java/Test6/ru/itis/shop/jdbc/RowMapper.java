@@ -1,0 +1,8 @@
+package Test6.ru.itis.shop.jdbc;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public interface RowMapper<T> {
+    T mapRow(ResultSet row) throws SQLException;
+}
