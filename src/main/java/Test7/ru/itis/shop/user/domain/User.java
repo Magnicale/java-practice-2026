@@ -1,4 +1,4 @@
-package Test7.ru.itis.shop.app.user.domain;
+package Test7.ru.itis.shop.user.domain;
 
 public class User {
 

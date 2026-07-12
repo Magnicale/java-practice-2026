@@ -1,4 +1,4 @@
-package Test7.ru.itis.shop.app.user.api.dto;
+package Test7.ru.itis.shop.user.api.dto;
 
 public class UserDto {
 

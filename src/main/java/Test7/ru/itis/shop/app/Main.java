@@ -1,10 +1,10 @@
-package Test7.ru.itis.shop.app.app;
+package Test7.ru.itis.shop.app;
 
-import Test7.ru.itis.shop.app.jdbc.DriverManagerDataSource;
-import Test7.ru.itis.shop.app.user.api.UserConsoleOperations;
-import Test7.ru.itis.shop.app.user.application.UserService;
-import Test7.ru.itis.shop.app.user.infrastructure.persistence.jdbc.UserRepositoryJdbcImpl;
-import Test7.ru.itis.shop.app.user.repository.UserRepository;
+import Test7.ru.itis.shop.jdbc.DriverManagerDataSource;
+import Test7.ru.itis.shop.user.api.UserConsoleOperations;
+import Test7.ru.itis.shop.user.application.UserService;
+import Test7.ru.itis.shop.user.infrastructure.persistence.jdbc.UserRepositoryJdbcImpl;
+import Test7.ru.itis.shop.user.repository.UserRepository;
 
 import javax.sql.DataSource;
 import java.io.IOException;

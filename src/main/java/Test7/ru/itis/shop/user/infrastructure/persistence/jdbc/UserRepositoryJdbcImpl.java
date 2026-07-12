@@ -1,9 +1,9 @@
-package Test7.ru.itis.shop.app.user.infrastructure.persistence.jdbc;
+package Test7.ru.itis.shop.user.infrastructure.persistence.jdbc;
 
-import Test7.ru.itis.shop.app.jdbc.RowMapper;
-import Test7.ru.itis.shop.app.user.api.dto.UserDto;
-import Test7.ru.itis.shop.app.user.domain.User;
-import Test7.ru.itis.shop.app.user.repository.UserRepository;
+import Test7.ru.itis.shop.jdbc.RowMapper;
+import Test7.ru.itis.shop.user.api.dto.UserDto;
+import Test7.ru.itis.shop.user.domain.User;
+import Test7.ru.itis.shop.user.repository.UserRepository;
 
 import javax.sql.DataSource;
 import java.sql.*;

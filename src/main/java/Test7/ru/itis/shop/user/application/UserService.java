@@ -1,8 +1,8 @@
-package Test7.ru.itis.shop.app.user.application;
+package Test7.ru.itis.shop.user.application;
 
-import Test7.ru.itis.shop.app.user.api.dto.UserDto;
-import Test7.ru.itis.shop.app.user.domain.User;
-import Test7.ru.itis.shop.app.user.repository.UserRepository;
+import Test7.ru.itis.shop.user.api.dto.UserDto;
+import Test7.ru.itis.shop.user.domain.User;
+import Test7.ru.itis.shop.user.repository.UserRepository;
 
 import java.util.List;
 import java.util.Optional;

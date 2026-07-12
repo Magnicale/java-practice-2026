@@ -1,7 +1,7 @@
-package Test7.ru.itis.shop.app.user.api;
+package Test7.ru.itis.shop.user.api;
 
-import Test7.ru.itis.shop.app.user.api.dto.UserDto;
-import Test7.ru.itis.shop.app.user.application.UserService;
+import Test7.ru.itis.shop.user.api.dto.UserDto;
+import Test7.ru.itis.shop.user.application.UserService;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package Test7.ru.itis.shop.app.jdbc;
+package Test7.ru.itis.shop.jdbc;
 
 import javax.sql.DataSource;
 import java.io.PrintWriter;

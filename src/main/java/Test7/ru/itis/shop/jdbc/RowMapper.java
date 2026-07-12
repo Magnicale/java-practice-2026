@@ -1,4 +1,4 @@
-package Test7.ru.itis.shop.app.jdbc;
+package Test7.ru.itis.shop.jdbc;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
